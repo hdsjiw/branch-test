@@ -1,1 +1,1 @@
-"# practicing git branching and merging" 
+### Practicing git branching and merging
